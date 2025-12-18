@@ -1,7 +1,7 @@
 # ИИ-ассистент для компании по подбору туров
 Ссылка на проект @travelgurukg_bot
 
-![Скриншот 1] https://github.com/nazguldiscord/ai_assistant/blob/main/savvy.png?raw=true
+![Скриншот 1] (https://github.com/nazguldiscord/ai_assistant/blob/main/savvy.png?raw=true)
 
 ## Описание проекта
 
